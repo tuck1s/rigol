@@ -22,3 +22,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install ds1054z
 ```
+
+## Example
+
+![Example capture](img/capture_000.png)
